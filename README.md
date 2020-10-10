@@ -6,7 +6,7 @@
 
 ## skils
 
-languages: JS, PY, GO, PHP
+languages: TS,JS, PY, GO, PHP
 
 frameworks: React, Node, WP_API
 
