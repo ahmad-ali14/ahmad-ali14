@@ -1,7 +1,16 @@
 
-<img align="left"  width="100%" alt="Ahmad Ali's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ahmad-ali14&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
-<br /> <br />
-<p>   </p>
-<img align="right" width="100%" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-ali14&layout=compact&theme=tokyonight&hide_border=true" />
+## Summary 
+
+I’m a software engineer. I assist in teaching 8-months full-stack course at CodeYourFuture. My background is in pharmacy and analytical chemistry which I studied for 5 years and practised for 2 years. I finished more than 35 online courses around coding. I’m currently studying computer science at UoPeople university.
+
+
+#### During my first 2 months on Upwork I achieved:
+
+- Top 10% PHP on All Upwork,
+- Top 10% WordPress on All Upwork,
+- Top 10% JavaScript on All Upwork,
+- Top 50% Scripts and Utilities on All Upwork,
+- Top 50% Web Development on All Upwork,
+- Top 5% HTML on All Upwork.
 
 
